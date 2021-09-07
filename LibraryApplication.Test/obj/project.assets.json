@@ -6412,11 +6412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dev\\LibraryApplication\\LibraryApplication.Test\\LibraryApplication.Test.csproj",
+      "projectUniqueName": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication.Test\\LibraryApplication.Test.csproj",
       "projectName": "LibraryApplication.Test",
-      "projectPath": "F:\\dev\\LibraryApplication\\LibraryApplication.Test\\LibraryApplication.Test.csproj",
+      "projectPath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication.Test\\LibraryApplication.Test.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "F:\\dev\\LibraryApplication\\LibraryApplication.Test\\obj\\",
+      "outputPath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6433,8 +6433,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\dev\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj": {
-              "projectPath": "F:\\dev\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj"
+            "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj": {
+              "projectPath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj"
             }
           }
         }

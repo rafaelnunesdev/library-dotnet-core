@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l73vPlH2l9ZAxYoivl6HXc8m9SZwmm72dImn0HXTQu5B1Ny2oJG3kuCkUpejy2mSQqAggqEhRzOOu6AP3PHXEQ==",
+  "dgSpecHash": "sTPXuLTen6nVaeY3hSth9U1pRduhfKLXf6niTCkrEFZq++uEvii3epCQQ0e6PSykbJoK9EX2DStLTo6tUXBDpA==",
   "success": true,
-  "projectFilePath": "F:\\dev\\LibraryApplication\\LibraryApplication.Test\\LibraryApplication.Test.csproj",
+  "projectFilePath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication.Test\\LibraryApplication.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

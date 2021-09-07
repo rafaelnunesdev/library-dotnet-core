@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dev\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj",
+      "projectUniqueName": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj",
       "projectName": "LibraryApplication",
-      "projectPath": "F:\\dev\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj",
+      "projectPath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "F:\\dev\\LibraryApplication\\LibraryApplication\\obj\\",
+      "outputPath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

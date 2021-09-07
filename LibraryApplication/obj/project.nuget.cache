@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6xIPORtHI8hufNKfoUdkDoEyYZoEpuIrtEcd4Mchw6UgmO0zxs/XDTsaYZi8kyRAdovIN5EE3ZhBQL5/35JUw==",
+  "dgSpecHash": "cIsQyoYTf0Dh9D0CInpWxDC14qcMfQNf8QQnt2yOV8MxI/fRWgI9YqugXnwscyg8/o9l0vH3KJI3meSG2kZHUw==",
   "success": true,
-  "projectFilePath": "F:\\dev\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj",
+  "projectFilePath": "F:\\dev\\upflux\\LibraryApplication\\LibraryApplication\\LibraryApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
